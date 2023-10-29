@@ -1,0 +1,53 @@
+{
+    "activeFile": "dungeon-01.json",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "dungeon-01.json": {
+            "scale": 1.5,
+            "selectedLayer": 3,
+            "viewCenter": {
+                "x": 389.66666666666674,
+                "y": 333
+            }
+        },
+        "dungeon-01.json#dungeon": {
+            "scaleInDock": 1
+        },
+        "dungeon-02.json": {
+            "scale": 0.363375,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 802.2015823873407,
+                "y": 802.201582387341
+            }
+        },
+        "dungeon-02.json#dungeon": {
+            "scaleInDock": 1
+        },
+        "dungeon-02.tmj": {
+            "scale": 1,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 240.5,
+                "y": 205.5
+            }
+        },
+        "dungeon-02.tmj#dungeon": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "/Users/morifen/Desktop/Morifen/GameJam/guenange2023/public/assets/dungeons",
+    "map.lastUsedExportFilter": "JSON map files (*.tmj *.json)",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "dungeon-01.json"
+    ],
+    "project": "untitled.tiled-project",
+    "recentFiles": [
+        "dungeon-01.json",
+        "dungeon-02.json",
+        "dungeon-02.tmj"
+    ]
+}

@@ -1,0 +1,111 @@
+{
+    "frames": {
+        "blobus_m_run_anim_f0.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 23,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 6,
+                "w": 23,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "blobus_m_run_anim_f1.png": {
+            "frame": {
+                "x": 0,
+                "y": 23,
+                "w": 23,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 4,
+                "w": 23,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "blobus_m_run_anim_f2.png": {
+            "frame": {
+                "x": 0,
+                "y": 46,
+                "w": 23,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 2,
+                "w": 23,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        "blobus_m_run_anim_f3.png": {
+            "frame": {
+                "x": 0,
+                "y": 69,
+                "w": 23,
+                "h": 23
+            },
+            "rotated": false,
+            "trimmed": true,
+            "spriteSourceSize": {
+                "x": 4,
+                "y": 0,
+                "w": 23,
+                "h": 23
+            },
+            "sourceSize": {
+                "w": 32,
+                "h": 32
+            },
+            "pivot": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    },
+    "meta": {
+        "app": "http://free-tex-packer.com",
+        "version": "0.6.7",
+        "image": "Blobus.png",
+        "format": "RGBA8888",
+        "size": {
+            "w": 23,
+            "h": 92
+        },
+        "scale": 1
+    }
+}

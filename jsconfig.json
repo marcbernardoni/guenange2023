@@ -1,0 +1,8 @@
+{
+    "compileerOptions": {
+        "target": "es6",
+        "moduleResolution": "node",
+        "checkJS": true,
+        "esModuleInterop": true
+    }
+}

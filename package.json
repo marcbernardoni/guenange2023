@@ -1,0 +1,31 @@
+{
+    "name": "phaser3-vite-template",
+    "private": true,
+    "version": "0.0.0",
+    "type": "module",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build",
+        "preview": "vite preview"
+    },
+    "devDependencies": {
+        "eslint": "^8.52.0",
+        "vite": "^4.5.0"
+    },
+    "dependencies": {
+        "phaser": "^3.60.0"
+    },
+    "eslintConfig": {
+        "env": {
+            "browser": true,
+            "es2023": true
+        },
+        "extends": "eslint:recommanded",
+        "overrides": [],
+        "parserOptions": {
+            "ecmaScript": "latest",
+            "sourceType": "module"
+        },
+        "rules": {}
+    }
+}
